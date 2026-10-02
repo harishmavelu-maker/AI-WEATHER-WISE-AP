@@ -3,8 +3,7 @@ Weather predictions
 AI WEATHER WISE AP
                  An AI-powered weather intelligence and personal weather assistant designed to provide weather information, forecasts, alerts, and simple recommendations.
 Problem Statement 
-
-                   People often find it difficult to understand changing weather conditions and plan their daily activities based on complex weather information. A simple AI-powered system can provide weather details in an easy-to-understand format.
+           People often find it difficult to understand changing weather conditions and plan their daily activities based on complex weather information. A simple AI-powered system can provide weather details in an easy-to-understand format.
 Objective
 
 .              Build a simple web application where users can enter a location and get current weather information, forecasts, weather alerts, and AI-based suggestions.
